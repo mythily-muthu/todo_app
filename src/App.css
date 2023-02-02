@@ -1,0 +1,17 @@
+.App {
+  margin: 0%;
+  padding: 0%;
+  background-color: rgba(0, 162, 255, 0.911);
+  height: 100vh;
+  color: white;
+}
+.header {
+  display: flex;
+  justify-content: center;
+  font-weight: 500;
+  font-size: x-large;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  padding: 5vh;
+  width: 100%;
+  color: white;
+}
