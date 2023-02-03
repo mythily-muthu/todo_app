@@ -19,8 +19,8 @@
 }
 @media (max-width: 800px) {
   .input_box {
-    padding: 10px;
-    width: 50px;
+    padding: 20px;
+    width: 350px;
   }
 }
 .input_box:focus {
@@ -36,4 +36,10 @@
   right: 0px;
   width: 50px;
   margin: 12px;
+}
+.todos {
+  display: flex;
+  justify-content: center;
+  width: 90%;
+  flex-wrap: wrap;
 }
